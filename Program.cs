@@ -4,7 +4,7 @@ class Program
 {
     static void Main()
     {
-        int n = 3; // Проверяем для степени 3
+        int n = 3 / 0; // Проверяем для степени 3
 
         for (int x = 1; x <= 100; x++)
         {
